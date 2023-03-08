@@ -9,3 +9,4 @@ Build 50 mini projects in HTML/CSS/JS. [Project Link](https://maggiechangfun.git
 |  3  | [Rotating Navigation](https://github.com/maggieChangFun/50-Projects/tree/main/Rotating%20Navigation)     |   [Rotating Navigation](./Rotating%20Navigation/index.html)   |
 |  4  | [Hidden Search Widget](https://github.com/maggieChangFun/50-Projects/tree/main/Hidden%20Search%20Widget) | [Hidden Search Widget](./Hidden%20Search%20Widget/index.html) |
 |  5  | [Blurry Loading](https://github.com/maggieChangFun/50-Projects/tree/main/Blurry%20Loading)               |        [Blurry Loading](./Blurry%20Loading/index.html)        |
+|  6  | [Scroll Animation](https://github.com/maggieChangFun/50-Projects/tree/main/Scroll%20Animation)           |      [Scroll Animation](./Scroll%20Animation/index.html)      |

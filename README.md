@@ -1,6 +1,6 @@
 # 50-Projects
 
-Build 50 mini projects in HTML/CSS/JS.
+Build 50 mini projects in HTML/CSS/JS. [Project Link](https://maggiechangfun.github.io/50-Projects/)
 
 |  #  | Project                                                                                                  |                           Live Demo                           |
 | :-: | :------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------: |
